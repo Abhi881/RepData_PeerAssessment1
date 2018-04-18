@@ -2,7 +2,7 @@
 title: "Assigment peer review."
 author: "Abhishek Singh"
 date: "18 April 2018"
-output: html_document
+output: md_document
 ---
 
 ```{r setup, include=FALSE}
